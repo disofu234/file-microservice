@@ -1,0 +1,16 @@
+{
+  "name": "file-microservice",
+  "version": "1.0.0",
+  "description": "a file metadata microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "multer": "^1.3.0",
+    "pug": "^2.0.0-rc.1"
+  }
+}
